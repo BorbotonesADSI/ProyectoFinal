@@ -26,6 +26,9 @@ A lo largo del curso seguimos este proceso iterativo:
 
 ## 📦 Entregables
 
+- ✅ **Prototipo inicial en Figma**  
+  👉 [Ver en Figma](https://www.figma.com/proto/OD07XCK3uw4w3fBtoObo4a/Cafeteria-ITAM?node-id=1-13&starting-point-node-id=1%3A13&t=q6W05foNH68jKCmZ-1)
+
 - ✅ **Prototipo final en Figma**  
   👉 [Ver en Figma](https://www.figma.com/proto/6iDXPFsxVHx2C4SOSkCe9M/Proyecto-Final--Copy-?node-id=3-1212&t=HkVhMZXukHpby7pu-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A31)
 
